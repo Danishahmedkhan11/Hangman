@@ -14,7 +14,7 @@ if not showing, you may dowmload and install python
 
 open vscode or any editor you like
 open folder where you downloaded
-Then go to run and execute.
+Then go to run and execute in main.py.
 
 
 I hope you enjoy this.
